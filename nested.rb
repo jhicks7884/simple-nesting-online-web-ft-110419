@@ -11,7 +11,7 @@ def hopper
           :known_for => "Object Orientation",
           :languages => ["Smalltalk", "LISP"]
         },
-        :dennis_ritchie => 
+        :dennis_ritchie =>
         {
           :known_for => "Unix",
           :languages => ["C"]
